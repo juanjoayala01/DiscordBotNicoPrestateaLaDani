@@ -31,7 +31,7 @@ module.exports = {
   //Lavalink
   Lavalink: {
     id: "Main",
-    host: "lavalink-railways-production-d66d.up.railway.app",
+    host: "lavalink-server12312.herokuapp.com",
     port: 443, // The port that lavalink is listening to. This must be a number!
     pass: "youshallnotpass",
     secure: true, // Set this to true if the lavalink uses SSL or you're hosting lavalink on repl.it
