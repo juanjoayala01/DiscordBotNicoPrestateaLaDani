@@ -1,1 +1,1 @@
-worker: java -jar Lavalink.jar & node index.js & wait -n
+worker: java -jar Lavalink.jar
